@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TeamHub" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="CustomDatePickerDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/purple_blue
+        </item> <!-- The color of the date picker header and the selected date -->
+        <item name="android:datePickerDialogTheme">@style/PickerDialogTheme</item>
+    </style>
+
+    <style name="PickerDialogTheme" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="colorAccent">@color/purple_blue
+        </item> <!-- The color of the date picker header and the selected date -->
+    </style>
+
+</resources>

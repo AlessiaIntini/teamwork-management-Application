@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933198624284",
+    "project_id": "teamhub-71391",
+    "storage_bucket": "teamhub-71391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933198624284:android:6e646b78629ea22b0191d9",
+        "android_client_info": {
+          "package_name": "it.polito.teamhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933198624284-lnau1m035m1ku5ar70jlftnmgq52927p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.teamhub",
+            "certificate_hash": "81779fc0d0596f22743a643334fa38a22d117a06"
+          }
+        },
+        {
+          "client_id": "933198624284-aipvk8i781vph1at93tbj1jb4s0kdeuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFAiEMHjE-_qfepa8mBnSSr16XddCwzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933198624284-aipvk8i781vph1at93tbj1jb4s0kdeuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
